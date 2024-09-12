@@ -24,5 +24,5 @@ The Movies dataset is a comprehensive collection of movie-related information de
 The system also generates a bar chart showing the average rating of movies by genre, helping users understand which genres tend to be rated higher.
 
 # Project urls
-•	Colab
-•	Hugging Face
+•	Colab = https://colab.research.google.com/drive/1a0nAZNFw1uwPiGGUHBXjGsiHQkITL3Lh?usp=sharing
+•	Hugging Face = 
