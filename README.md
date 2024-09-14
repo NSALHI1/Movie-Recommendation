@@ -26,3 +26,6 @@ The system also generates a bar chart showing the average rating of movies by ge
 # Project urls
 •	Colab = https://colab.research.google.com/drive/1a0nAZNFw1uwPiGGUHBXjGsiHQkITL3Lh?usp=sharing
 •	Hugging Face = https://huggingface.co/spaces/Norahsal/Movies
+• Video = https://drive.google.com/drive/folders/1vqrqc4Moa_0ZbDMZsA_HPSmkYhfhQ6vL
+
+
